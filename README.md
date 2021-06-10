@@ -1,0 +1,1 @@
+A Event app which uses SQLIte at its backend
