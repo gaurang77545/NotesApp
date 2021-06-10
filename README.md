@@ -1,1 +1,1 @@
-A Event app which uses SQLIte at its backend
+A Notes app which uses SQLIte at its backend
